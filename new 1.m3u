@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Arabia | Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,UK | BBC Alba (Geoblocked)
-https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 #EXTINF:-1,LAT | Funbox
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FUNBOX/20-hls/live-media.m3u8
 #EXTINF:-1,IE | RTÉ1
