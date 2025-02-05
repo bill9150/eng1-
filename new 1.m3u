@@ -1,28 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Arabia | Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,LAT | Funbox
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FUNBOX/20-hls/live-media.m3u8
-#EXTINF:-1,IE | RTÉ1
-http://154.58.225.25:9999/rte1/index.m3u8
-#EXTINF:-1,IE | RTÉ2
-http://154.58.225.25:9999/rte2/index.m3u8
-#EXTINF:-1,IE | Cula4
-https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
-#EXTINF:-1,EU | National Geographic
-http://82.114.68.53:8000/play/a04h/index.m3u8
 #EXTINF:-1,US | National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1,US | Nat Geo Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,MX | Canal 22
-http://38.123.205.14:8000/play/a0d7/index.m3u8
-#EXTINF:-1,TH | Nickelodeon (Geoblocked)
-http://124.121.0.125:10003/bysid/2331
-#EXTINF:-1,TH | Cartoon Network (Geoblocked)
-http://124.121.0.125:10003/bysid/2328
-#EXTINF:-1,INT | Nickelodeon
-http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1,US | CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1,US | FYI
@@ -35,104 +15,8 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1,US | Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1,INT | France 24
-https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 #EXTINF:-1,US | News12
 https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
-#EXTINF:-1,UK | Pop Up
-https://linear-862.frequency.stream/mt/plex-uk/862/hls/master/playlist.m3u8
-#EXTINF:-1,UK | Nick Jr.
-http://206.212.244.26/live/vasconeves/1742766045/47796.ts
-#EXTINF:-1,UK | Nick Jr. Too
-http://206.212.244.26/live/vasconeves/1742766045/47797.ts
-#EXTINF:-1,UK | Sky Sports F1
-https://a1xs.vip/2000016
-#EXTINF:-1,UK | 4seven
-http://92.114.85.72:8000/play/a0n5
-#EXTINF:-1,UK | 5USA
-http://92.114.85.72:8000/play/a07z
-#EXTINF:-1,UK | 5ACTION
-http://92.114.85.72:8000/play/a086
-#EXTINF:-1,UK | 5SELECT
-http://92.114.85.72:8000/play/a082
-#EXTINF:-1,UK | 5STAR
-http://92.114.85.72:8000/play/a081
-#EXTINF:-1,UK | BBC One
-http://92.114.85.72:8000/play/a0mw
-#EXTINF:-1,UK | BBC Two
-http://92.114.85.72:8000/play/a0mr
-#EXTINF:-1,UK | BBC Three
-http://92.114.85.72:8000/play/a0mx
-#EXTINF:-1,UK | Boomerang
-http://92.114.85.72:8000/play/a07j
-#EXTINF:-1,UK | Channel 4
-http://92.114.85.72:8000/play/a023
-#EXTINF:-1,UK | Channel 5
-http://92.114.85.72:8000/play/a085
-#EXTINF:-1,UK | E4
-http://92.114.85.72:8000/play/a07n
-#EXTINF:-1,UK | E4 Extra
-http://92.114.85.72:8000/play/a0n4
-#EXTINF:-1,UK | Film4
-http://92.114.85.72:8000/play/a07g
-#EXTINF:-1,ES | La7
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1,ES | La 1 
-http://xtream-ie.org/live/media4u/media4u/99786.ts
-#EXTINF:-1,ES | La 2
-http://xtream-ie.org/live/media4u/media4u/43282.ts
-#EXTINF:-1,ES | TEN
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-#EXTINF:-1,ES | Telecinco
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
-#EXTINF:-1,ES | Cuatro
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:9_HD.smil/manifest.m3u8
-#EXTINF:-1,ES | laSexta
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:11_HD.smil/manifest.m3u8
-#EXTINF:-1,PT | RTP 1
-http://xtream-ie.org/live/media4u/media4u/89189.ts
-#EXTINF:-1,PT | RTP 2
-http://xtream-ie.org/live/media4u/media4u/89191.ts
-#EXTINF:-1,UK | GREAT! comedy
-https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8
-#EXTINF:-1,NZ | HGTV
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
-#EXTINF:-1,MA | 2M
-http://at2sat.tulix.tv:41142/bysid/381
-#EXTINF:-1,UK | ITV1
-http://92.114.85.72:8000/play/a0o2
-#EXTINF:-1,UK | ITV2
-http://92.114.85.72:8000/play/a0nz
-#EXTINF:-1,UK | ITV3
-http://92.114.85.72:8000/play/a0lr
-#EXTINF:-1,UK | ITV4
-http://92.114.85.72:8000/play/a0nu
-#EXTINF:-1,UK | ITVBe
-http://92.114.85.72:8000/play/a0nv
-#EXTINF:-1,UK | More4
-http://92.114.85.72:8000/play/a07p
-#EXTINF:-1,UK | Pop
-http://92.114.85.72:8000/play/a08h
-#EXTINF:-1,UK | Pop Max
-http://92.114.85.72:8000/play/a08i
-#EXTINF:-1,UK | U&Alibi
-http://92.114.85.72:8000/play/a0b6
-#EXTINF:-1,UK | U&Dave
-http://92.114.85.72:8000/play/a0bc
-#EXTINF:-1,UK | U&Drama
-http://92.114.85.72:8000/play/a0b7
-#EXTINF:-1,UK | U&Eden
-http://92.114.85.72:8000/play/a0b1
-#EXTINF:-1,UK | U&Gold
-http://92.114.85.72:8000/play/a0bh
-#EXTINF:-1,UK | U&W
-http://92.114.85.72:8000/play/a0bj
-#EXTINF:-1,UK | U&Yesterday
-http://92.114.85.72:8000/play/a0b3
-#EXTINF:-1,UK | Sky Witness
-http://92.114.85.72:8000/play/a0i3
-#EXTINF:-1,UK | Sky Atlantic
-http://92.114.85.72:8000/play/a0hg
 #EXTINF:-1,US | Heroes & Icons
 http://c-73-44-50-12.hsd1.il.comcast.net:9981/tvheadend/stream/channel/4c280b04085323e2d24d37d0bfcba193?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1,US | Story
@@ -167,74 +51,12 @@ http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1_7jN6DnGfn9kuZlTrd0K7E
 http://watch-myjokertv.xyz:8080/play/3wV_2hKH8dCc4-tosvoH1yMliZ9T-L2qfdy1l2sYu7E/ts
 #EXTINF:-1,CA | TVA 
 http://68.233.120.207:9981/stream/channelid/1523198423?profile=pass
-#EXTINF:-1,Arabia | Cartoon Network 
-http://213.57.91.138:8000/play/a02j
-#EXTINF:-1 tvg-id="NickJr.th",TH | Nick Jr. (Geoblocked)
-http://124.121.0.125:10000/bysid/2716
-#EXTINF:-1 tvg-id="DreamWorks.th",TH | DreamWorks (Geoblocked)
-http://124.121.0.125:10005/bysid/2516
-#EXTINF:-1 tvg-id="CartoonNetwork.pl",PL | Cartoon Network
-http://178.219.128.68:64888/CARTNETWHD
-#EXTINF:-1,PL | Polsat Play
-http://178.219.128.68:64888/POLSPLAYHD
-#EXTINF:-1,PL | Polsat Cafe
-http://178.219.128.68:64889/POLSCAFEHD
-#EXTINF:-1,PL | Polsat Film
-http://178.219.128.68:64889/POLSFILMHD
-#EXTINF:-1,PL | Polsat Seriale
-http://178.219.128.68:64888/POLSROMA
-#EXTINF:-1,PL | Polsat
-http://178.219.128.68:64888/POLSHD
-#EXTINF:-1,PL | Polsat 2
-http://178.219.128.68:64888/POLS2HD
 #EXTINF:-1 tvg-id="DisneyJunior.pl",PL | Disney Junior
 http://109.233.89.166/Disney_Junior/mono.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl",PL | Disney Channel
 http://109.233.89.170/Disney_Channel/mono.m3u8
-#EXTINF:-1,LAT | Azteca Clic
-http://38.159.227.124:8000/play/a04y/index.m3u8
-#EXTINF:-1,BR | Globo 
-http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46470.ts
-#EXTINF:-1,BR | GNT 
-http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46472.ts
-#EXTINF:-1,BR | BIS 
-http://sapphireapp.xyz:8080/live/W0V9brr5JW/2656286300/46420.ts
-#EXTINF:-1,KR | KBS World 
-http://132.145.84.42:9981/stream/channelid/105537859?profile=pass
-#EXTINF:-1,KR | KBS Drama 
-http://132.145.84.42:9981/stream/channelid/1170954100?profile=pass
-#EXTINF:-1,KR | KBS Life 
-http://132.145.84.42:9981/stream/channelid/426410233?profile=pass
-#EXTINF:-1,KR | KBS Kids
-http://132.145.84.42:9981/stream/channelid/866675069?profile=pass
-#EXTINF:-1,KR | KBS Story  
-http://132.145.84.42:9981/stream/channelid/1022189048?profile=pass
-#EXTINF:-1,KR | KBS Joy 
-http://132.145.84.42:9981/stream/channelid/1132835385?profile=pass
-#EXTINF:-1,KR | SBS M
-http://132.145.84.42:9981/stream/channelid/1101409838?profile=pass
-#EXTINF:-1,KR | SBS Plus
-http://132.145.84.42:9981/stream/channelid/1979166906?profile=pass
-#EXTINF:-1,KR | SBS Biz  
-http://132.145.84.42:9981/stream/channelid/863604026?profile=pass
-#EXTINF:-1,KR | SBS funE 
-http://132.145.84.42:9981/stream/channelid/535444663?profile=pass
-#EXTINF:-1,KR | SBS Golf
-http://132.145.84.42:9981/stream/channelid/756634134?profile=pass
 #EXTINF:-1,US | Tennis Channel
 https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,ES | Nickelodeon
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1,EU | FX
-http://stream01.vnet.am/Fox/video.m3u8
-#EXTINF:-1 tvg-id="CN.ph",PH | Cartoon Network (Geoblocked)
-https://bisdaktv.serv00.net/channel.php?id=145
-#EXTINF:-1 tvg-id="Moonbugkids",Asia | Moonbug Kids (Geoblocked)
-https://bisdaktv.serv00.net/channel.php?id=146
-#EXTINF:-1 tvg-id="nickmusic2",EMEA | NickMusic
-http://185.236.229.62:9981/play/a064
-#EXTINF:-1,PH | Animax
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1,US | OWN
 http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1,US | MeTV Toons
@@ -263,38 +85,10 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1,US | NHL Network 
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1,EU | NickToons
-http://185.236.229.62:9981/play/a06a
 #EXTINF:-1,US | CBS Sports
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,US | FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1,PL | CBS Reality
-http://185.236.229.62:9981/play/a02v
-#EXTINF:-1,PL | HBO
-http://185.236.229.62:9981/play/a06k
-#EXTINF:-1,PL | HBO2
-http://185.236.229.62:9981/play/a05x
-#EXTINF:-1,PL | National Geographic
-http://185.236.229.62:9981/play/a04d
-#EXTINF:-1,PL | Comedy Central Extra
-http://185.236.229.62:9981/play/a06c
-#EXTINF:-1,PL | Travel Channel
-http://185.236.229.62:9981/play/a072
-#EXTINF:-1,PL | MTV
-http://185.236.229.62:9981/play/a06b
-#EXTINF:-1,PL | Comedy Central
-http://185.236.229.62:9981/play/a068
-#EXTINF:-1,PL | Cinemax
-http://185.236.229.62:9981/play/a05p
-#EXTINF:-1,TH | Boomerang
-https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
-#EXTINF:-1,PL | Cinemax2
-http://185.236.229.62:9981/play/a07r
-#EXTINF:-1,PL | BBC Brit
-http://185.236.229.62:9981/play/a06r
-#EXTINF:-1,PL | BBC Earth
-http://185.236.229.62:9981/play/a02o
 #EXTINF:-1,US | BBC Earth
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,US | UniMas
